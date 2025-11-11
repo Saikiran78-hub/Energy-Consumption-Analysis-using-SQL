@@ -1,2 +1,2 @@
 # Energy-Consumption-Analysis-using-SQL
-SQL-based project for analyzing energy consumption patterns across different sectors and regions. Includes data cleaning, exploratory data analysis (EDA), and insights generation using advanced SQL queries such as joins, CTEs, subqueries, and window functions.
+he Energy Consumption Analysis using SQL project is designed to explore and analyze real-world energy usage data through structured query techniques. This project demonstrates how SQL can be leveraged to clean, organize, and extract meaningful insights from large datasets related to electricity and energy consumption across various sectors, time periods, and regions.
